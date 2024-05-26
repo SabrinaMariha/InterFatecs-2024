@@ -1,5 +1,4 @@
 # InterFatecs 2024
-##
 
 Maratona de programação entre as Faculdades de Tecnologia do Centro Paula Souza:
 https://www.interfatecs.com.br/
