@@ -20,7 +20,7 @@ Integrantes:
 
 Sabrina Mariha Gomes Silva | Daniel Almeida | Gabriel Goris 
 
-#### Tentamos 8 dos 12 exercícios propostos, dos quais submetemos 6 exercícios corretos. Apesar de estarmos classificados entre as 50 melhores equipes, não fomos finalistas por da taxa de mínima de participação de outras Fatecs, sendo assim, foram selecionados no máximo 3 times por Fatec, com exceção da sede (Bragança Paulista, com 4 times).
+#### Tentamos 8 dos 12 exercícios propostos, dos quais submetemos 6 exercícios corretos. Apesar de estarmos classificados entre as 50 melhores equipes, não fomos finalistas por conta da taxa de mínima de participação de outras Fatecs, sendo assim, foram selecionados no máximo 3 times por Fatec, com exceção da sede (Bragança Paulista, com 4 times).
 
 Subsmissões corretas:
 
