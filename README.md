@@ -8,7 +8,8 @@ Números:
 428 equipes inscritas
 - 41 unidades Fatec
 - 46 professores (técnicos)
-- 1284 competidores (+325 reservas)
+- 1284 competidores <br>
+
 50 equipes na fase final presencial:
 - 34 unidades Fatec
 
